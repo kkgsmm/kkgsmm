@@ -1,0 +1,68 @@
+{
+    "new-year-celebration": {
+        "widths": [
+            480,
+            885
+        ],
+        "w": 885,
+        "h": 1024,
+        "focus": "50% 40%"
+    },
+    "young-achiever": {
+        "widths": [
+            480,
+            960,
+            1440
+        ],
+        "w": 2576,
+        "h": 2576,
+        "focus": "50% 35%"
+    },
+    "independence-day": {
+        "widths": [
+            480,
+            804
+        ],
+        "w": 804,
+        "h": 780,
+        "focus": "50% 45%"
+    },
+    "science-exhibition-dna": {
+        "widths": [
+            480,
+            960,
+            1440
+        ],
+        "w": 2576,
+        "h": 2576,
+        "focus": "35% 50%"
+    },
+    "keys-to-success": {
+        "widths": [
+            480,
+            960,
+            1440
+        ],
+        "w": 1756,
+        "h": 1285,
+        "focus": "50% 50%"
+    },
+    "school-building": {
+        "widths": [
+            418
+        ],
+        "w": 418,
+        "h": 240,
+        "focus": "50% 50%"
+    },
+    "palestine-solidarity-day": {
+        "widths": [
+            480,
+            960,
+            1440
+        ],
+        "w": 2576,
+        "h": 1932,
+        "focus": "50% 40%"
+    }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><!-- PLACEHOLDER image: replace with a real photo -->
+<defs><pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="28" height="28" fill="#E9EEF8"/><rect width="14" height="28" fill="#E1E8F5"/></pattern></defs>
+<rect width="800" height="600" fill="url(#p)"/>
+<g fill="none" stroke="#1F3A93" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".45">
+<path d="M318 250h40l18-28h48l18 28h40a14 14 0 0 1 14 14v100a14 14 0 0 1-14 14H318a14 14 0 0 1-14-14V264a14 14 0 0 1 14-14z"/><circle cx="400" cy="316" r="38"/></g>
+</svg>

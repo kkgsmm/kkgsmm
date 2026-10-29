@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /portal
+Disallow: /staff-portal
+Disallow: /admissions/thank-you
+Disallow: /ur/portal
+Disallow: /ur/staff-portal
+Disallow: /ur/admissions/thank-you
+
+Sitemap: https://kkgsmm.github.io/sitemap.xml

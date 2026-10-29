@@ -1,0 +1,14 @@
+/* Print styles — clean black-and-white pages for notices, forms and confirmations */
+@page { margin: 16mm; }
+body { background: #fff !important; color: #000 !important; font-size: 11pt; }
+.ticker, .site-header, .site-footer, .float-wa, .to-top, .hero__controls, .quick, .cta-band,
+.jump, .no-print, .btn, .carousel-btns, .form-aside, .map-card, .mobile-menu, .ph-badge { display: none !important; }
+.page-head { background: none !important; color: #000 !important; padding: 0 0 8mm !important; border-bottom: 2px solid #000; }
+.page-head__title, .page-head__lead, .breadcrumb, .breadcrumb a { color: #000 !important; }
+.breadcrumb { display: none; }
+.section { padding: 6mm 0 !important; background: none !important; }
+.reveal { opacity: 1 !important; transform: none !important; }
+a { color: #000 !important; text-decoration: none !important; }
+.success-card, .form-section, .notice, .event, .table-wrap { border: 1px solid #000 !important; box-shadow: none !important; break-inside: avoid; }
+.table thead th { background: #eee !important; color: #000 !important; }
+h1, h2, h3 { color: #000 !important; break-after: avoid; }
